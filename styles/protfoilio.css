@@ -159,3 +159,19 @@ main section{
   height: 64px;
   border-radius: 5px;
 }
+
+/* Footer */
+.footer-title{
+  font-weight: bold;
+  font-size: 35px;
+}
+.footer-description{
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+footer{
+  padding: 130px 230px;
+  display: flex;
+  gap: 100px;
+}
