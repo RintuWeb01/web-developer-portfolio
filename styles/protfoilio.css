@@ -136,3 +136,26 @@ main section{
   border-radius: 5px;
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+
+/*My summary */
+.resume-container{
+  display: flex;
+  gap: 24px;
+
+}
+.experience-sub-title{
+  color: #757575;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.experience-description{
+  color: #757575;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.resume-download-btn{
+  margin-top: 50px;
+  height: 64px;
+  border-radius: 5px;
+}
